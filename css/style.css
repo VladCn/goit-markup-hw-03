@@ -79,7 +79,6 @@ header {
 .logo-and-nav {
     display: flex;
     align-items: center;
-
 }
 
 .nav-ul {
@@ -254,8 +253,8 @@ h2 {
 
 .nasha-komanda-li {
     background: var(--ther-white-color);
-    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
-    border-radius: 0px 0px 4px 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 1px rgba(0, 0, 0, 0.14), 0 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0 0 4px 4px;
     margin-top: 30px;
     margin-left: 30px;
 }
@@ -313,7 +312,7 @@ h2 {
 .work-select-button:hover,
 .work-select-button:focus {
     background: #2196F3;
-    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 3px 1px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.08), 0 2px 2px rgba(0, 0, 0, 0.12);
     color: var(--ther-white-color);
     text-decoration: none;
 }
